@@ -1,4 +1,4 @@
-```markdown
+
 # 💡 LED Blink with Clock Divider (Verilog)
 
 This project demonstrates a basic **LED blinking module** using Verilog. The LED toggles at a human-visible rate using an internal clock divider. Blinking is controlled by a `switch` input and can be reset anytime using `rst`.
