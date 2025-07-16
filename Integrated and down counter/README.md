@@ -1,4 +1,4 @@
-```markdown
+
 # 🔃 Integrated Up & Down Counter on 7-Segment Display
 
 This project implements a **4-bit up/down counter** with 7-segment display control in **Verilog HDL**. The direction (up or down) is determined dynamically based on input signal edges. Both modes are seamlessly integrated into a **single hardware module**, avoiding the need for separate designs.
