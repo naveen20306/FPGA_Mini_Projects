@@ -1,4 +1,4 @@
-```markdown
+
 # 🔄 4-Bit Barrel Shifter (Verilog)
 
 This project implements a 4-bit **barrel shifter** in Verilog HDL. A barrel shifter allows shifting or rotating a data word by a specific number of positions in a single clock cycle. It is useful in ALUs, DSP blocks, and other fast data manipulation circuits.
@@ -59,8 +59,7 @@ sel = 3'h2;            // out = 0101
 sel = 3'h3;            // out = 0101
 ...
 ```
-
-> Use tools like **Vivado**, **ModelSim**, or **GTKWave** to simulate and view waveform output.
+Use tools like **Vivado**, **ModelSim**, or **GTKWave** to simulate and view waveform output.
 
 ---
 
